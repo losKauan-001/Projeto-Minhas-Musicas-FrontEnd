@@ -1,4 +1,4 @@
-const urlBackend = globalThis.urlBackend
+const urlBackend = "https://projeto-minhas-musicas-git-main-kauas-projects-b43f6438.vercel.app";
 
 const listaMusicas = document.getElementById("listaMusicas")
 
