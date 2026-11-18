@@ -1,4 +1,4 @@
-globalThis.urlBackend = "http://projeto-minhas-musicas-git-main-kauas-projects-b43f6438.vercel.app";
+globalThis.urlBackend = "https://projeto-minhas-musicas-git-main-kauas-projects-b43f6438.vercel.app";
 const urlBackend = globalThis.urlBackend
 
 const inputTitulo = document.getElementById("titulo");
